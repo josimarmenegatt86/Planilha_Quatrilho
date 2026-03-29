@@ -37,6 +37,6 @@ O modelo foi desenhado para suportar o crescimento do número de jogadores e eta
 ---
 
 ## 🧑‍💻 Autor
-Desenvolvido por **João Augusto Biava** *Estudante de Programação de Sistemas e entusiasta de automação.*
+Desenvolvido por **Josimar Menegatt** * Professor e Programador *
 
 ---
