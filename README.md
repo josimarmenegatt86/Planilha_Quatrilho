@@ -1,7 +1,4 @@
-import os
-
-# Conteúdo do README.md unificado e detalhado
-readme_content = """# 🎴 Sistema de Gestão de Torneios de Quatrilho
+# 🎴 Sistema de Gestão de Torneios de Quatrilho
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 ![Tech](https://img.shields.io/badge/Tech-Excel%20Avan%C3%A7ado-blue)
@@ -61,14 +58,3 @@ Desenvolvido por **Josimar Menegatt** * Professor e Programador *
 
 ---
 """
-
-# Criar o arquivo README.md
-file_path = 'README.md'
-with open(file_path, 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print(f"Arquivo gerado com sucesso em: {file_path}")
-
-
-
----
